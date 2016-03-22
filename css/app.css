@@ -1,0 +1,21 @@
+#banner {
+    margin-bottom: 16px;
+}
+
+#buttondiv {
+    text-align: center;
+}
+
+#button {
+    background-color: #c32432;
+    max-width: 600px;
+}
+
+button.radius, .button.radius {
+    border-radius: 3px;
+}
+
+/*
+.small-12.button.radius {
+    max-width:
+}*/
