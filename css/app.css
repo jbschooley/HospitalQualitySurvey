@@ -1,9 +1,25 @@
+p {
+	font-family: 'Roboto','Helvetica Neue',Arial,sans-serif;
+	color: #43464D;
+	font-size: 18px;
+}
+
+.head {
+	font-family: 'Roboto','Helvetica Neue',Arial,sans-serif;
+	font-size: 26px;
+	color: #43464D;
+	text-align: center;
+	line-height: 1.5em;
+	margin: 1.5em 0 1.5em 0;
+}
+
 #banner {
     margin-bottom: 16px;
 }
 
 #buttondiv {
     text-align: center;
+	margin: 0.5em 0 1.5em 0;
 }
 
 #button {
