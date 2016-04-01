@@ -10,21 +10,29 @@ p {
 	color: #43464D;
 	text-align: center;
 	line-height: 1.5em;
-	margin: 1.5em 0 1.5em 0;
+	margin: 1.5em 0 1em 0;
 }
 
 #banner {
     margin-bottom: 16px;
 }
 
+#banner img {
+	margin-top: 1em;
+}
+
 #buttondiv {
     text-align: center;
-	margin: 0.5em 0 1.5em 0;
+	margin: 0.5em 0 1em 0;
 }
 
 #button {
     background-color: #c32432;
     max-width: 600px;
+}
+
+#sponsors img {
+	margin: 0.5em 0 0.5em 0;
 }
 
 button.radius, .button.radius {
