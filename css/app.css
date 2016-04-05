@@ -31,6 +31,15 @@ p {
     max-width: 600px;
 }
 
+@media screen and (min-width: 64em) {
+	#content {
+		padding-right: 25px;
+	}
+	#sponsors {
+		padding-left: 25px;
+	}
+}
+
 #sponsors img {
 	margin: 0.5em 0 0.5em 0;
 }
